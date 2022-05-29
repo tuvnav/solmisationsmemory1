@@ -7,7 +7,7 @@
 var memory = {
 
     // Add a description text to the sidebar for this memory.
-    description: "Das hier ist ein Memory-Spiel. Es gibt 8 Kartenpaare. Findet die passenden Sound-Beispiele zu den Bildkarten. Die Karte 'Grundton' erinnert euch daran, wie unser 'do' im Spiel klingt.",
+    description: "Es gibt 8 Kartenpaare. Findet die passenden Sound-Beispiele zu den Bildkarten! Die Karte 'Grundton' erinnert euch daran, wie unser 'do' im Spiel klingt. Nochmal zur Erinnerung: Unsere Tonleiter geht so: do-re-mi-fa-so-la-ti-do",
 
     // Show the description for the memory in the sidebar.
     showDescription: true,
